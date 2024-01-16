@@ -1,9 +1,6 @@
 # nodejs-passport-login-server
 
-I wanted to explore how to use passport js to create a login server. 
-So that's what I did. 
-
-I created a simple login server using passport js with the strategy of local (email/username & password).
+I wanted to explore how to use passport js to create a login server, so I created a simple login server using passport js with the strategy of local (email/username & password).
 
 ## How to use
 
